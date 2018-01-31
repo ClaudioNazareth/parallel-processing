@@ -1,6 +1,7 @@
 # Parallel-Processing
 
 Click in the badges below to see build and coverage information
+
 [![Build Status](https://travis-ci.org/ClaudioNazareth/parallel-processing.svg?branch=master)](https://travis-ci.org/ClaudioNazareth/parallel-processing)
 [![codecov](https://codecov.io/gh/ClaudioNazareth/parallel-processing/branch/master/graph/badge.svg)](https://codecov.io/gh/ClaudioNazareth/parallel-processing)
 
