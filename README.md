@@ -1,7 +1,8 @@
 # Parallel-Processing
 
 Click in the badges below to see build and coverage information
-
+[![Build Status](https://travis-ci.org/ClaudioNazareth/parallel-processing.svg?branch=master)](https://travis-ci.org/ClaudioNazareth/parallel-processing)
+[![codecov](https://codecov.io/gh/ClaudioNazareth/parallel-processing/branch/master/graph/badge.svg)](https://codecov.io/gh/ClaudioNazareth/parallel-processing)
 
 ![javaversion](https://img.shields.io/badge/Java-8-yellowgreen.svg)
 ![springboot](https://img.shields.io/badge/spring%20boot-1.5.9.RELEASE-orange.svg)
