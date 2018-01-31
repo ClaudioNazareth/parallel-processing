@@ -1,0 +1,8 @@
+parallelism:
+  number: 1000
+
+data:
+  separator: ' , '
+
+file:
+  path: 'links_counted.txt'
